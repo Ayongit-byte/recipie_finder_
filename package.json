@@ -4,8 +4,8 @@
 	"description": "An app that let you search recipies.",
 	"default": "login.html",
 	"scripts": {
-		"start": "parcel index.html",
-		"build": "parcel build index.html --dist-dir ./dist"
+		"start": "parcel login.html",
+		"build": "parcel build login.html --dist-dir ./dist"
 	},
 	"author": "sachin-yadav",
 	"license": "ISC",
