@@ -2,7 +2,7 @@
 	"name": "find-recipies",
 	"version": "1.0.0",
 	"description": "An app that let you search recipies.",
-	"default": "index.html",
+	"default": "login.html",
 	"scripts": {
 		"start": "parcel index.html",
 		"build": "parcel build index.html --dist-dir ./dist"
